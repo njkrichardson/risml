@@ -87,7 +87,7 @@ compressed representation (each point) by its actual numeric value (whether the 
 illustrates interesting semantic _locality_ in the vector space of compressed representations; often called the "latent"
 space. 
 
-![mnistpca](https://github.com/njkrichardson/risml/blob/master/mnist_pca_encodings.pca?raw=true)
+![mnistpca](https://github.com/njkrichardson/risml/blob/master/figures/mnist_pca_encodings.png?raw=true)
 
 The implementations provided in RISML are in correspondence with the associated text; Ruye Wang's _Machine Learning:
 From Theory to Code_, a forthcoming book for senior undergraduates in mathematics, engineering, and computing. The book
