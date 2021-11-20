@@ -16,7 +16,8 @@ the application of machine learning and scientific computing. The only requisite
 package are some experience programming in a high-level language, and an interest in looking under the covers at how
 machine learning applications are developed and implemented. 
 
-### What is a reduced instruction set?  In computer architecture, **reduced** and **complex** are terms used to loosely
+### What is a reduced instruction set?  
+In computer architecture, **reduced** and **complex** are terms used to loosely
 distinguish between the instruction set architectures of different machines. A reduced instruction set computer (RISC)
 architecture like ARM or MIPS exposes a relatively simple and limited instruction set (e.g., operations like ADD, MOV,
 SUB, and BRANCH) to the programmer; in practice this often means that each instruction requires fewer clock cycles to
@@ -56,7 +57,8 @@ using NumPy for an array abstraction/linear alebra package and Jax for automatic
 uses of both NumPy and Jax where possible, and introductory tutorials for these two libraries are forthcoming. 
 
 
-### How to get started RISML contains a variety of short example use-case scripts with accompanying visuals rendered
+### How to get started 
+RISML contains a variety of short example use-case scripts with accompanying visuals rendered
 with [Matplotlib](https://matplotlib.org/). Perusing these examples and the figures they produce are a great way to get
 started.  
 
