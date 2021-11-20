@@ -93,7 +93,8 @@ The implementations provided in RISML are in correspondence with the associated 
 From Theory to Code_, a forthcoming book for senior undergraduates in mathematics, engineering, and computing. The book
 is scheduled to be available through Cambridge University Press in 2021. 
 
---- ### Installation 
+--- 
+### Installation 
 
 **HTTPS** ```bash $ git clone https://github.com/njkrichardson/risml.git ```
 
